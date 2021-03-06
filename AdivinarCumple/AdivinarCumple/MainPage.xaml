@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="#2B2D42"
+             x:Class="AdivinarCumple.MainPage">
+    
+    <StackLayout>
+        <Frame BackgroundColor="#d90429" Padding="24" CornerRadius="0">
+            <Label Text="🧑🏽Adivinar Cumple📅" 
+                   HorizontalTextAlignment="Center" 
+                   TextColor="#EDF2F4" 
+                   FontAttributes="Bold"
+                   FontSize="36"/>
+        </Frame>
+
+        <ScrollView>
+        <StackLayout>
+            <Label Text="Marca cada check despues de terminar"
+               FontSize="24"
+               FontAttributes="Bold"
+               HorizontalTextAlignment="Center"
+               TextColor="#EDF2F4"
+               Margin="0,25"/>
+
+
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="1. Piensa el numero del dia que naciste"
+                   FontSize="15"
+                   TextColor="#EDF2F4"/>
+            <CheckBox CheckedChanged="CheckBox_CheckedChanged" x:Name="validacionUno" HorizontalOptions="Center"/>
+
+          
+            <Label Text="2. Multiplicalo por 20"
+                   FontSize="15"
+                   TextColor="#EDF2F4"/>
+            <CheckBox HorizontalOptions="Center"/>
+
+            <Label Text="3. Sumale 73 al resultado"
+                   FontSize="15"
+                   TextColor="#EDF2F4"/>
+            <CheckBox  HorizontalOptions="Center"/>
+
+            <Label Text="4. Multiplica por 5"
+                   FontSize="15"
+                   TextColor="#EDF2F4"/>
+            <CheckBox  HorizontalOptions="Center"/>
+
+            <Label Text="5. Sumale el numero del mes de tu nacimiento"
+                   FontSize="15"
+                   TextColor="#EDF2F4"/>
+            <CheckBox  HorizontalOptions="Center"/>
+
+
+        </StackLayout>
+
+
+        <Label Text="¿Cual es el resultado?"
+                   FontSize="24"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   Margin="0,20,0,10"
+                   HorizontalTextAlignment="Center"/>
+
+       
+        <Entry Placeholder="Resultado" 
+                   HorizontalOptions="Center" 
+                   WidthRequest="150"
+                   HorizontalTextAlignment="Center"
+                   Keyboard="Numeric"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   x:Name="resultado"/>
+
+
+        <Button Text="INGRESAR" 
+                    Padding="10" 
+                    FontSize="20"
+                    TextColor="White"
+                    CornerRadius="12" 
+                    HorizontalOptions="Center"
+                    WidthRequest="200"
+                    FontAttributes="Bold"
+                    Margin="0,20,0,20"
+                    Background="red"
+                    Clicked="btnCalculo_Clicked"    
+                    x:Name="btnCalculo"/>
+         </StackLayout>
+        </ScrollView>
+
+    </StackLayout>
+    
+</ContentPage>

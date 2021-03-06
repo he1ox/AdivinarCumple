@@ -1,0 +1,14 @@
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\bin\Debug\netstandard2.0\AdivinarCumple.deps.json
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\bin\Debug\netstandard2.0\AdivinarCumple.dll
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\bin\Debug\netstandard2.0\ref\AdivinarCumple.dll
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\bin\Debug\netstandard2.0\AdivinarCumple.pdb
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\obj\Debug\netstandard2.0\AdivinarCumple.AssemblyInfoInputs.cache
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\obj\Debug\netstandard2.0\AdivinarCumple.AssemblyInfo.cs
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\obj\Debug\netstandard2.0\AdivinarCumple.csproj.CoreCompileInputs.cache
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\obj\Debug\netstandard2.0\XamlC.stamp
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\obj\Debug\netstandard2.0\AdivinarCumple.dll
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\obj\Debug\netstandard2.0\ref\AdivinarCumple.dll
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\obj\Debug\netstandard2.0\AdivinarCumple.pdb
+E:\XAMARIN - CURSO\AdivinarCumple\AdivinarCumple\AdivinarCumple\obj\Debug\netstandard2.0\AdivinarCumple.csprojAssemblyReference.cache

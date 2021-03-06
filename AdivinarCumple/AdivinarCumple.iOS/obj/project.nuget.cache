@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FL4WazpGDJ7p0Hi981q2E298r6jsgGGHom/54bb83AVfYZAD0j952kjh3Ib+22M7KIf+sXbnyfa7vFce6F0Peg==",
+  "success": true,
+  "projectFilePath": "E:\\XAMARIN - CURSO\\AdivinarCumple\\AdivinarCumple\\AdivinarCumple.iOS\\AdivinarCumple.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
